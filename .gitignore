@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# Allow .gitignore, .gitmodules, README.md and tribal--e_marketplace directory
+!.gitignore
+!.gitmodules
+!README.md
+!tribal--e_marketplace/
+
+# Ignore these files and folders inside the project folder
+node_modules/
+*.log
+*.env
+build/
