@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+
+
+# Build directories (React build output, for example)
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Package lock files (optional depending on your workflow)
+package-lock.json
+yarn.lock
